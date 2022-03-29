@@ -1,6 +1,6 @@
 # merge-sort-projesi
 
-Bu proje Veri Yapıları ve Algoritmalar modülünün projelerinin ikincisidir.
+Bu proje Veri Yapıları ve Algoritmalar modülünün projelerinin ikincisidir. [Patika.dev adresine git.](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)
 
 **[16,21,11,8,12,22]** -> Merge Sort
 
